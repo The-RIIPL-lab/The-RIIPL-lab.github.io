@@ -1,7 +1,7 @@
 ---
 name: Peter Yuan
 image: images/photo.jpg
-role: pi
+role: programmer
 links:
   email:
   twitter:

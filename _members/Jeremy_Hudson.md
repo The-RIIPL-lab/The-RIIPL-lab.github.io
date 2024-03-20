@@ -1,7 +1,7 @@
 ---
 name: Jeremy Hudson
 image: images/photo.jpg
-role: pi
+role: programmer
 links:
   email:
   twitter:
