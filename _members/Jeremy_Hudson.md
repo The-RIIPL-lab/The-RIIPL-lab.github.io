@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Jeremy Hudson
 image: images/photo.jpg
-role: phd
-group: alum
+role: pi
 links:
-  github: john-doe
+  email:
+  twitter:
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

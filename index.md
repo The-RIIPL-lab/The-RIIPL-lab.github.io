@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
-
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+# RIIPL
+### Radiology Informatics and Image Processing Laboratory
+The RIIPL Lab is a medical imaging research group located at the Atrium Health Wake Forest Bapitst MRI Imaging Building.
 
 {%
   include button.html
@@ -17,11 +16,17 @@ Spend less time worrying about managing a website and citations, and more time r
   text="On GitHub"
   link="greenelab/lab-website-template"
 %}
+{%
+  include button.html
+  type="info"
+  text="Wake Forest University School of Medicine Page"
+  link="https://school.wakehealth.edu/research/labs/radiology-informatics-and-image-processing-laboratory"
+%}
 
 {% include section.html %}
 
 ## Highlights
-
+****
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
