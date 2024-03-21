@@ -1,15 +1,10 @@
 ---
 ---
 
-# RIIPL
-### Radiology Informatics and Image Processing Laboratory
-The RIIPL Lab is a medical imaging research group located at the Atrium Health Wake Forest Bapitst MRI Imaging Building.
+Welcome to RIIPL, a research group within the Atrium Wake Forest Baptist Health Department of Radiology. Our lab is dedicated to advancing the frontiers of medical imaging through the application of cutting-edge image analysis methods, including diffeomorphic registration, machine learning and AI development, graph theory analysis, and arterial spin labeling (ASL). At the heart of our mission is not just the development of these novel techniques, but their robust translation into clinical practice, improving patient care and outcomes.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
+Our team is comprised of a diverse group of experts—biomedical engineers, MR physicists, clinical radiologists, programmers—and a dynamic mix of students from various fields, all united by a shared passion for transforming healthcare. Our collaborative spirit extends beyond our lab, as we actively engage with a wide array of research groups, contributing our imaging expertise to studies in aging and dementia, radiation exposure, traumatic brain injury, and the health impacts of diet and exercise.
+
 {%
   include button.html
   type="github"
@@ -18,8 +13,8 @@ The RIIPL Lab is a medical imaging research group located at the Atrium Health W
 %}
 {%
   include button.html
-  type="info"
-  text="Wake Forest University School of Medicine Page"
+  type="website"
+  text="Official Website"
   link="https://school.wakehealth.edu/research/labs/radiology-informatics-and-image-processing-laboratory"
 %}
 
@@ -29,7 +24,7 @@ The RIIPL Lab is a medical imaging research group located at the Atrium Health W
 ****
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TODO: Here is for the intro to the list of our publications...
 
 {%
   include button.html
@@ -44,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/riipl_logo_250.png"
   link="research"
   title="Our Research"
   text=text
@@ -52,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TODO: Here is the intro for the list of recent or interesting projects or Student work. 
 
 {%
   include button.html
@@ -67,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/riipl_logo_250_dark.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -77,7 +72,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+TODO: Here is the place for the location of 
 
 {%
   include button.html
@@ -92,7 +87,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/riipl_logo_250_light.png"
   link="team"
   title="Our Team"
   text=text

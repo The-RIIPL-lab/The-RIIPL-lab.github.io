@@ -1,7 +1,7 @@
 ---
 name: Jeongchul Kim
-image: images/photo.jpg
-role: pi
+image: "https://cdn.atriumhealth.org/-/media/wakeforest/global/system/person-images/j/jeongchul-kim.jpg"
+role: asst_professor
 aliases:
   - Kim, J
 links:

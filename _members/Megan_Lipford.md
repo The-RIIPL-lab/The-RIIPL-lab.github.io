@@ -1,7 +1,7 @@
 ---
 name: Megan Lipford
-image: images/photo.jpg
-role: pi
+image: "https://cdn.atriumhealth.org/-/media/wakeforest/global/system/person-images/m/megan-elisa-lipford.jpg"
+role: asst_professor
 group: alum
 links:
   orcid: 

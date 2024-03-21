@@ -2,9 +2,21 @@
 
 # team member roles
 
+boss:
+  icon: fa-solid fa-star
+  description: Director
+
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
+
+professor:
+  icon: fa-solid fa-microscope
+  description: Professor
+
+asst_professor:
+  icon: fa-solid fa-microscope
+  description: Assistant Professor
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -20,6 +32,10 @@ undergrad:
 
 programmer:
   icon: fa-solid fa-code
+  description: Programmer
+
+senior_programmer:
+  icon: fa-solid fa-glasses
   description: Programmer
 
 mascot:

@@ -1,7 +1,7 @@
 ---
 name: Christopher Whitlow
-image: images/photo.jpg
-role: pi
+image: "https://cdn.atriumhealth.org/-/media/wakeforest/global/system/person-images/c/christopher-thomas-whitlow.jpg"
+role: boss
 group: alum
 aliases:
   - Whitlow CT
