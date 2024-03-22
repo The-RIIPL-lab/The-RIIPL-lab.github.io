@@ -24,7 +24,7 @@ Our team is comprised of a diverse group of experts—biomedical engineers, MR p
 ****
 {% capture text %}
 
-TODO: Here is for the intro to the list of our publications...
+Our lab specializes in integrating cutting-edge neuroimaging analysis into studies of aging, diet, traumatic brain injury, and more. We pride ourselves on our extensive portfolio of recent publications, highlighting our ongoing contributions to various fields of research.
 
 {%
   include button.html
@@ -47,7 +47,7 @@ TODO: Here is for the intro to the list of our publications...
 
 {% capture text %}
 
-TODO: Here is the intro for the list of recent or interesting projects or Student work. 
+From groundbreaking ongoing research projects to the exceptional work of our students and faculty. This space highlights our latest abstracts, posters, and speaking engagements, along with innovative software projects aimed at enriching the open-source community.
 
 {%
   include button.html
@@ -72,7 +72,7 @@ TODO: Here is the intro for the list of recent or interesting projects or Studen
 
 {% capture text %}
 
-TODO: Here is the place for the location of 
+Our Team is the cornerstone of our lab, comprising a vibrant mix of individuals from various disciplines united by a shared passion for neuroimaging research. Here, you can learn about each member's role, their specific research interests, and the unique contributions they bring to our collective pursuit of knowledge. Our lab thrives on the diversity of thoughts, skills, and interests each person contributes, making us a robust and dynamic force in the field.
 
 {%
   include button.html
