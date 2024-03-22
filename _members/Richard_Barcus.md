@@ -3,9 +3,8 @@ name: Richard Barcus
 image: images/photo.jpg
 role: senior_programmer
 links:
-  email:
-  twitter:
+  orcid: 0000-0002-3584-8242
   github: MrRichard
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Richard Barcus joined the RIIPL lab in 2016. 

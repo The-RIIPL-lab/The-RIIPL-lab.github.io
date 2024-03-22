@@ -1,23 +1,22 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+ - id: doi:10.1016/j.heliyon.2024.e26664
+ - id: doi:10.1093/cercor/bhad463
+ - id: doi:10.1016/j.ijrobp.2023.11.014
+ - id: doi:10.1002/mrm.29674
+ - id: doi:10.1016/j.patter.2022.100613
+ - id: doi:10.3389/fphys.2022.1020999
+ - id: doi:10.1002/alz.12232
+ - id: doi:10.1093/cercor/bhaa015
+ - id: doi:10.3389/fneur.2023.1116723
+ - id: doi:10.1186/s42492-023-00136-5
+ - id: doi:10.1016/j.ijrobp.2023.11.014
+ - id: doi:10.1016/j.neuroimage.2023.120491
+ - id: doi:10.1093/cercor/bhad463
+ - id: doi:10.3389/fphys.2021.645342
+ - id: doi:10.3174/ajnr.A7265
+ - id: doi:10.1016/j.jalz.2019.06.3993
+ - id: doi:10.1016/j.jalz.2018.06.1777
+ - id: doi:10.1016/j.jalz.2017.06.1533
+ - id: doi:10.1002/alz.044554
+ - id: doi:10.1002/alz.056711
+ - id: doi:10.1002/alz.055761
+ - id: doi:10.1002/alz.056364
