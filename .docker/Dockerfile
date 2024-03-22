@@ -9,8 +9,8 @@ COPY Gemfile Gemfile.lock _cite/requirements.txt ./
 
 # install ruby packages
 RUN VERSION=$(grep -A 1 'BUNDLED WITH' Gemfile.lock | tail -n 1 | xargs); \
-    gem install bundler --version ${VERSION} && \
-    bundle _${VERSION}_ install
+    gem install bundler:2.5.6 && \
+    bundle _2.5.6_ install
 
 # install python
 RUN apt update && apt install -y python3 python3-pip
