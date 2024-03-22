@@ -39,7 +39,7 @@ TODO: Here is for the intro to the list of our publications...
 
 {%
   include feature.html
-  image="images/riipl_logo_250.png"
+  image="images/riipl_logo_250_dark.png"
   link="research"
   title="Our Research"
   text=text
@@ -62,7 +62,7 @@ TODO: Here is the intro for the list of recent or interesting projects or Studen
 
 {%
   include feature.html
-  image="images/riipl_logo_250_dark.png"
+  image="images/riipl_logo_250.png"
   link="projects"
   title="Our Projects"
   flip=true

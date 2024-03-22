@@ -1,7 +1,6 @@
 # map general type to default/fallback icon, text, etc.
 
 # team member roles
-
 boss:
   icon: fa-solid fa-star
   description: Director
