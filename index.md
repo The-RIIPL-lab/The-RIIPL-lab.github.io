@@ -9,7 +9,7 @@ Our team is comprised of a diverse group of experts—biomedical engineers, MR p
   include button.html
   type="github"
   text="On GitHub"
-  link="greenelab/lab-website-template"
+  link="The-Riipl-lab"
 %}
 {%
   include button.html

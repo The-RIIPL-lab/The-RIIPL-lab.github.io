@@ -4,7 +4,7 @@ image: "https://cdn.atriumhealth.org/-/media/wakeforest/global/system/person-ima
 role: asst_professor
 group: alum
 links:
-  orcid: 
+  linkedin: https://www.linkedin.com/in/megan-lipford-phd-7aa16340/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
