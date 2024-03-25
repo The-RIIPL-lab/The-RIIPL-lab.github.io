@@ -5,7 +5,7 @@ role: asst_professor
 aliases:
   - Kim, J
 links:
-  linkedin: https://www.linkedin.com/in/jeongchul-kim-4a603b161/ 
+  linkedin: jeongchul-kim-4a603b161
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
