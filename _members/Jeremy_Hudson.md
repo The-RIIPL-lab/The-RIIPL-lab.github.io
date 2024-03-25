@@ -1,9 +1,10 @@
 ---
 name: Jeremy Hudson
-image: images/photo.jpg
-role: programmer
+image: images/jeremy_hudson_cropped.png
+role: Programmer
 links:
-  github: JPHudson43
+  linkedin: https://www.linkedin.com/in/jeremy-h-419881a0/
+  github: https://github.com/JPHudson43
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Jeremy Hudson joined the lab in 2021. He assists research faculty with their programming needs, expediting their workflows. He's skilled in Python, AWS, and various medical imaging software. Outside of work, Jeremy enjoys keeping up with the latest advances in technology, science fiction, fitness, and gaming.
