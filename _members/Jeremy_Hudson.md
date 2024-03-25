@@ -1,7 +1,7 @@
 ---
 name: Jeremy Hudson
 image: images/jeremy_hudson_cropped.png
-role: Programmer
+role: programmer
 links:
   linkedin: jeremy-h-419881a0
   github: JPHudson43
