@@ -39,7 +39,7 @@ Our lab specializes in integrating cutting-edge neuroimaging analysis into studi
 
 {%
   include feature.html
-  image="images/Our_Recent_Work.jpg"
+  image="images/riipl_logo_250_dark.png"
   link="research"
   title="Our Research"
   text=text
@@ -62,7 +62,7 @@ From groundbreaking ongoing research projects to the exceptional work of our stu
 
 {%
   include feature.html
-  image="images/Our_Ongoing_Projects.jpg"
+  image="images/riipl_logo_250.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -87,7 +87,7 @@ Our Team is the cornerstone of our lab, comprising a vibrant mix of individuals 
 
 {%
   include feature.html
-  image="images/Our_Research_Team.jpg"
+  image="images/riipl_logo_250_light.png"
   link="team"
   title="Our Team"
   text=text
