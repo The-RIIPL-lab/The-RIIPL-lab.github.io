@@ -2,7 +2,7 @@
 
 # team member roles
 boss:
-  icon: fa-solid fa-star
+  icon: fa-solid fa-user-tie
   description: Director
 
 pi:
@@ -23,7 +23,7 @@ postdoc:
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Graduate Student
 
 research_asst:
   icon : fa-solid fa-microscope
@@ -35,15 +35,23 @@ undergrad:
 
 programmer:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Programmer/Analyst
 
 senior_programmer:
   icon: fa-solid fa-glasses
-  description: Programmer
+  description: Programmer/Analyst
 
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
+
+research_specialist:
+  icon: fa-solid fa-magnifying-glass
+  description: Research Specialist
+
+project_manager:
+  icon: fa-solid fa-calendar-check
+  description: Project Manager
 
 # general
 

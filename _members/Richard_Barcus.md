@@ -1,10 +1,9 @@
 ---
 name: Richard Barcus
-image: images/photo.jpg
+image: images/richard_barcus.png
 role: senior_programmer
 aliases:
-  - Barcus RA
-  - Richard A Barcus
+  - Barcus
 links:
   orcid: 0000-0002-3584-8242
   github: MrRichard
