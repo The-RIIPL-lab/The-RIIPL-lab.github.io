@@ -2,6 +2,8 @@
 name: Jeremy Hudson
 image: images/jeremy_hudson_cropped.png
 role: programmer
+aliases: 
+  - Jeremy P. Hudson
 links:
   linkedin: jeremy-h-419881a0
   github: JPHudson43

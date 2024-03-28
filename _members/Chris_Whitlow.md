@@ -4,6 +4,6 @@ image: "https://cdn.atriumhealth.org/-/media/wakeforest/global/system/person-ima
 role: boss
 group: alum
 aliases:
-  - Whitlow CT
+  - Christoper T Whitlow
 ---
 
