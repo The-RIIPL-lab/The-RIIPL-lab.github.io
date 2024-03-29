@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Meet the remarkable minds behind the RIIPL lab — a diverse team of multi-disciplinary talents dedicated to research and development in medical imaging. Each member brings a unique set of skills and insights, driving innovation and excellence in our work.
 
 {% include section.html %}
 
@@ -18,16 +16,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<blockquote>
+"The strength of the team is each individual member. The strength of each member is the team." <br>
+- Phil Jackson
+</blockquote>
 
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/staff_photos/RIIPL_lab_04142023.jpg" %}
+{% include figure.html image="images/staff_photos/RIIPL_lab_08042022.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}

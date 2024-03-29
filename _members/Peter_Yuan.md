@@ -1,6 +1,6 @@
 ---
 name: Peter Yuan
-image: images/photo.jpg
+image: images/staff_photos/peter_yuan.jpg
 role: programmer
 aliases: 
   - Hongyu Yuan

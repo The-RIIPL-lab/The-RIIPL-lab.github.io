@@ -1,6 +1,6 @@
 ---
 name: Jeremy Hudson
-image: images/jeremy_hudson_cropped.png
+image: images/staff_photos/jeremy_hudson_cropped.png
 role: programmer
 aliases: 
   - Jeremy P. Hudson

@@ -1,44 +1,21 @@
-- title: AI Identification of Nutcracker Syndrome
-  subtitle: Automated identification of Nutcracker Syndrome conditions using ultrasound images
+- title: Example 1
+  subtitle: Automated segmentation of Nutcracker Syndrome conditions using ultrasound images
   group: featured
-  image: images/photo.jpg
-  description: Training a model 
-  tags:
-    - resource
+  image: images/project_photos/Jeongchul_Nutcracker_Image.png
+  description: Jeongchul Kim is working with the development team to create an advanced AI model that can recognize and categorize a difficult-to-diagnose condition.
 
-- title: Shape Analysis of Rhesus Macaque Insula 
-  subtitle: Shape of insula associated with social status
+- title: Example 2
+  subtitle: Creating an effective shape analysis pipeline for brain regions of interest.
   group: featured
-  image: images/photo.jpg
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+  image: images/project_photos/Kedar_Insula_Image.png
+  description: Kedar Madi is creating an automated shape-analysis pipeline to identify significant brain region differences within groups.
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Example 3
+  subtitle: Looking for voxelwise differences in cerebral bloodflow
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
+  description: Pranjal Rai (Summer Student, 2023) is continuing her work with the RIIPL lab by studying cerebral bloodflow in High School football players. 
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Example 4
+  subtitle: Reducing the electricity usage by the radiology department.
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+  description: Richard Barcus is developing a monitoring system to assist the radiology department in tracking and reducing the use of electricity by scanners and workstations.
