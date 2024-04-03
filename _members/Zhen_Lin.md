@@ -1,6 +1,6 @@
 ---
 name: Zhen Lin
-image: images/photo.jpg
+image: images/staff_photos/zhen_lin.jpg
 role: phd
 group: bme
 links:
