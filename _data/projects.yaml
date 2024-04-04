@@ -5,7 +5,7 @@
   description: Jeongchul Kim is working with the development team to create an advanced AI model that can recognize and categorize a difficult-to-diagnose condition.
 
 - title: Example 2
-  subtitle: Creating an effective shape analysis pipeline for brain regions of interest.
+  subtitle: Creating a shape analysis pipeline for brain regions of interest.
   group: featured
   image: images/project_photos/Kedar_Insula_Image.png
   description: Kedar Madi is creating an automated shape-analysis pipeline to identify significant brain region differences within groups.
@@ -19,3 +19,8 @@
   subtitle: Reducing the electricity usage by the radiology department.
   image: images/photo.jpg
   description: Richard Barcus is developing a monitoring system to assist the radiology department in tracking and reducing the use of electricity by scanners and workstations.
+
+- title: Example 5
+  subtitle: Better Image viewing in Radiology Education using the OHIF viewer. 
+  image: images/photo.jpg
+  description: The RIIPL lab is collaborating with IT Services to utilize the Open Health Imaging Foundation (OHIF) Viewer to modernize medical imaging education.
