@@ -1,6 +1,6 @@
 ---
 name: Megan Lipford
-image: "https://cdn.atriumhealth.org/-/media/wakeforest/global/system/person-images/m/megan-elisa-lipford.jpg"
+image: "images/staff_photos/megan_lipford.jpg"
 role: asst_professor
 group: alum
 aliases: 
@@ -9,4 +9,3 @@ links:
   linkedin: megan-lipford-phd-7aa16340
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

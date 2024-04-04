@@ -7,5 +7,3 @@ aliases:
 links:
   linkedin: peter-yuan-61b769102
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

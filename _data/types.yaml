@@ -13,6 +13,10 @@ professor:
   icon: fa-solid fa-microscope
   description: Professor
 
+manager:
+  icon: fa-solid fa-wand-magic-sparkles
+  description: Systems Manager
+
 asst_professor:
   icon: fa-solid fa-microscope
   description: Assistant Professor
@@ -50,7 +54,7 @@ research_specialist:
   description: Research Specialist
 
 project_manager:
-  icon: fa-solid fa-calendar-check
+  icon: fa-solid fa-hand-spock
   description: Project Manager
 
 # general
