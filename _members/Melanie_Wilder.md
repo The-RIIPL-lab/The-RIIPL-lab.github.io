@@ -1,5 +1,5 @@
 ---
 name: Melanie Wilder
-image: images/photo.jpg
+image: images/staff_photos/melanie_wilder.jpg
 role: research_specialist
 ---
