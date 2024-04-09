@@ -5,15 +5,16 @@ description: This is the GitHub Website for the WFU RIIPL lab located in Winston
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+url: https://the-riipl-lab.github.io/
 
 # site social media and other links
 links:
   email: rbarcus@wakehealth.edu
-  #orcid: 0000-0001-8713-9213
-  #google-scholar: ETJoidYAAAAJ
   github: The-RIIPL-lab
   #twitter: YourLabHandle
   #youtube: YourLabChannel
+  #orcid: 0000-0001-8713-9213
+  #google-scholar: ETJoidYAAAAJ
 
 ### jekyll settings
 
@@ -29,19 +30,21 @@ defaults:
       type: "members"
     values:
       layout: member
-  # markdown files in /_posts
-  - scope:
-      type: "posts"
-    values:
-      layout: post
+  # # markdown files in /_posts
+  # - scope:
+  #     type: "posts"
+  #   values:
+  #     layout: post
 
 collections:
   members:
-    output: false
+    output: true
   projects:
     output: true
   research:
     output: true
+  posts:
+    output: false
 
 # jekyll plugins
 plugins:
