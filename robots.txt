@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://the-riipl-lab.github.io//sitemap.xml
