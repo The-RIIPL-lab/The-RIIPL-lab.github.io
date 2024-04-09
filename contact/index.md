@@ -12,8 +12,8 @@ We're here to help and answer any questions you might have. We look forward to h
 {%
   include button.html
   type="email"
-  text="rbarcus@wakehealth.edu"
-  link="rbarcus@wakehealth.edu"
+  text="Email Us"
+  link="riipl_info_DL@wakehealth.edu"
 %}
 {%
   include button.html
