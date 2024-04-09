@@ -36,11 +36,11 @@ defaults:
       layout: post
 
 collections:
-  # generate page for each member
   members:
+    output: false
+  projects:
     output: true
-  # generate page for each post
-  posts:
+  research:
     output: true
 
 # jekyll plugins
