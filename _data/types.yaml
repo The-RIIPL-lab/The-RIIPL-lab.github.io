@@ -29,6 +29,14 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: Graduate Student
 
+bme-phd:
+  icon: fa-solid fa-graduation-cap
+  description: BME Graduate Student
+
+md-phd:
+  icon: fa-solid fa-user-doctor
+  description: MD/PhD Student
+
 research_asst:
   icon : fa-solid fa-microscope
   description: Research Assistant

@@ -1,6 +1,6 @@
 ---
 name: Kevin Yu
-image: images/photo.jpg
-role: phd
-group: mdphd
+image: images/staff_photos/kevin_yu.jpg
+role: md-phd
+group: md-phd
 ---
