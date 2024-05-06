@@ -254,18 +254,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.jalz.2019.06.3993
-  title: "P4\u2010323: MULTI\u2010SCALE ANALYSIS OF WHITE MATTER DEGENERATION IN COGNITIVELY\
-    \ NORMAL AND MCI ADULTS."
-  authors:
-  - Jeongchul Kim
-  - Youngkyoo Jung
-  - Richard Barcus
-  - Samuel N. Lockhart
-  - Laura D. Baker
-  - Suzanne Craft
-  - Christopher T. Whitlow
-  publisher: Alzheimer's &amp; Dementia
-  date: '2019-07-01'
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
   link: https://doi.org/gtnpxx
   plugin: sources.py
   file: sources.yaml
