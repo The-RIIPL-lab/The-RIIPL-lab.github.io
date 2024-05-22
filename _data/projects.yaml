@@ -1,26 +1,26 @@
-- title: Example 1
-  subtitle: Automated segmentation of Nutcracker Syndrome conditions using ultrasound images
+- title: Venal Vein Compression
+  subtitle: Automated identification of Nutcracker Syndrome conditions using ultrasound images
   group: featured
   image: images/project_photos/Jeongchul_Nutcracker_Image.png
   description: Jeongchul Kim is working with the development team to create an advanced AI model that can recognize and categorize a difficult-to-diagnose condition.
 
-- title: Example 2
+- title: Shape Analysis
   subtitle: Creating a shape analysis pipeline for brain regions of interest.
   group: featured
-  image: images/project_photos/Kedar_Insula_Image.png
+  image: images/project_photos/Kedar_Insula_Image2.png
   description: Kedar Madi is creating an automated shape-analysis pipeline to identify significant brain region differences within groups.
 
-- title: Example 3
+- title: Summer Student Project
   subtitle: Looking for voxelwise differences in cerebral bloodflow
   image: images/photo.jpg
   description: Pranjal Rai (Summer Student, 2023) is continuing her work with the RIIPL lab by studying cerebral bloodflow in High School football players. 
 
-- title: Example 4
+- title: Green Imaging Initiatives
   subtitle: Reducing the electricity usage by the radiology department.
   image: images/photo.jpg
   description: Richard Barcus is developing a monitoring system to assist the radiology department in tracking and reducing the use of electricity by scanners and workstations.
 
-- title: Example 5
+- title: Imaging Education Tool development
   subtitle: Better Image viewing in Radiology Education using the OHIF viewer. 
   image: images/photo.jpg
   description: The RIIPL lab is collaborating with IT Services to utilize the Open Health Imaging Foundation (OHIF) Viewer to modernize medical imaging education.

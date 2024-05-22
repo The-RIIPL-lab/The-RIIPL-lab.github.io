@@ -1,6 +1,6 @@
 ---
 name: Mohammad Kawas
-image: images/photo.jpg
+image: images/staff_photos/mohammad_kawas.jpg
 role: research_asst
 aliases:
   - Mohammad I Kawas
