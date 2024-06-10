@@ -3,7 +3,7 @@
 # team member roles
 boss:
   icon: fa-solid fa-user-tie
-  description: Director
+  description: Founder and Director
 
 pi:
   icon: fa-solid fa-microscope

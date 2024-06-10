@@ -1,9 +1,19 @@
 ---
 ---
 
-Welcome to RIIPL, a research group within the Atrium Wake Forest Baptist Health Department of Radiology. Our lab is dedicated to advancing the frontiers of medical imaging through the application of cutting-edge image analysis methods, including diffeomorphic registration, machine learning and AI development, graph theory analysis, and arterial spin labeling (ASL). At the heart of our mission is not just the development of these novel techniques, but their robust translation into clinical practice, improving patient care and outcomes.
+## Message from Founder and Director
 
-Our team is comprised of a diverse group of experts—biomedical engineers, MR physicists, clinical radiologists, programmers—and a dynamic mix of students from various fields, all united by a shared passion for transforming healthcare. Our collaborative spirit extends beyond our lab, as we actively engage with a wide array of research groups, contributing our imaging expertise to studies in aging and dementia, radiation exposure, traumatic brain injury, and the health impacts of diet and exercise.
+<div style="display: flex; align-items: start;">
+  <blockquote style="font-style: italic; font-family: 'Times New Roman', Times, serif; flex: 1; text-align: left">
+    "Welcome to RIIPL, a research group within the Atrium Wake Forest Baptist Health Department of Radiology. Our lab is dedicated to advancing the frontiers of medical imaging through the application of cutting-edge image analysis methods, including diffeomorphic registration, machine learning and AI development, graph theory analysis, and arterial spin labeling (ASL). At the heart of our mission is not just the development of these novel techniques, but their robust translation into clinical practice, improving patient care and outcomes.
+
+    Our team is comprised of a diverse group of experts—biomedical engineers, MR physicists, clinical radiologists, programmers—and a dynamic mix of students from various fields, all united by a shared passion for transforming healthcare. Our collaborative spirit extends beyond our lab, as we actively engage with a wide array of research groups, contributing our imaging expertise to studies in aging and dementia, radiation exposure, traumatic brain injury, and the health impacts of diet and exercise."
+  </blockquote>
+  <figure style="width: 200px; margin-left: 20px;">
+    <img src="images/staff_photos/chris_whitlow.jpg">
+    <figcaption>Dr. Christopher T. Whitlow, MD, PhD, MHA</figcaption>
+  </figure>
+</div>
 
 {%
   include button.html
