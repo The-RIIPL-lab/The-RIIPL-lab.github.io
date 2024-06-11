@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Meet the remarkable minds behind the RIIPL lab — a diverse team of multi-disciplinary talents dedicated to research and development in medical imaging. Each member brings a unique set of skills and insights, driving innovation and excellence in our work.
+Meet the remarkable minds behind RIIPL — a diverse team of multi-disciplinary talents dedicated to research and development in medical imaging. Each member brings a unique set of skills and insights, driving innovation and excellence in our work.
 
 {% include section.html %}
 

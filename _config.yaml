@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Welcome to the RIIPL Lab
+title: Welcome to RIIPL
 subtitle: The Radiology Informatics and Image Processing Laboratory
-description: This is the GitHub Website for the WFU RIIPL lab located in Winston-Salem, NC USA
+description: This is the GitHub Website for the WFU RIIPL located in Winston-Salem, NC USA
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
