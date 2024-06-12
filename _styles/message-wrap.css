@@ -1,0 +1,63 @@
+.message-wrap {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden; /* Ensure container clears floated elements */
+  position: relative;
+}
+.message-wrap .content {
+  font-family: Arial, sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.message-wrap .image-wrap {
+  float: right;
+  width: 200px; /* Set a reasonable width */
+  margin: 0 0 20px 20px; /* Adjust margin for spacing around the image */
+  shape-outside: circle(50%);
+  shape-margin: 10px;
+  clip-path: circle(100%);
+}
+.message-wrap .image-wrap img.wrap-image {
+  width: 100%; /* Full width within its container */
+  height: auto;
+  border-radius: 50%;
+  object-fit: cover; /* Ensure image covers the circle properly */
+}
+.message-wrap .image-wrap figcaption {
+  text-align: center;
+  font-style: normal;
+  margin-top: 10px;
+  font-size: 0.85em; /* Adjust caption size */
+  padding: 5px; /* Ensure proper padding */
+  box-sizing: border-box; /* Include padding in size calculation */
+}
+.message-wrap blockquote {
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .message-wrap {
+    display: flex;
+    flex-direction: column;
+  }
+  .message-wrap .content {
+    order: 1;
+  }
+  .message-wrap .image-wrap {
+    order: 2;
+    float: none;
+    margin: 20px auto;
+    width: 70%;
+    shape-outside: none;
+    clip-path: none;
+    text-align: center;
+  }
+}
+
+/*# sourceMappingURL=message-wrap.css.map */
