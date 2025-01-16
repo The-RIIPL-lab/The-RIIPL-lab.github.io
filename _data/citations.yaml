@@ -382,3 +382,1082 @@
   link: https://doi.org/gtnpx6
   plugin: sources.py
   file: sources.yaml
+- id: pubmed:39179297
+  title: 'Alzheimer Disease Anti-Amyloid Immunotherapies: Imaging Recommendations
+    and Practice Considerations for Monitoring of Amyloid-Related Imaging Abnormalities.'
+  authors:
+  - Petrice M Cogswell
+  - Trevor J Andrews
+  - Jerome A Barakos
+  - Frederik Barkhof
+  - Suzie Bash
+  - Marc Daniel Benayoun
+  - Gloria C Chiang
+  - Ana M Franceschi
+  - Clifford R Jack
+  - Jay J Pillai
+  - Tina Young Poussaint
+  - Cyrus A Raji
+  - Vijay K Ramanan
+  - Jody Tanabe
+  - Lawrence Tanenbaum
+  - Christopher T Whitlow
+  - Fang F Yu
+  - Greg Zaharchuk
+  - Michael Zeinah
+  - Tammie S Benzinger
+  publisher: AJNR. American journal of neuroradiology
+  date: '2025-01-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39179297
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39731855
+  title: Corrigendum to-"Ca
+  authors:
+  - Sambad Sharma
+  - Shih-Ying Wu
+  - Hugo Jimenez
+  - Fei Xing
+  - Dongqin Zhu
+  - Yin Liu
+  - Kerui Wu
+  - Abhishek Tyagi
+  - Dan Zhao
+  - Hui-Wen Lo
+  - Linda Metheny-Barlow
+  - Peiqing Sun
+  - Daniel J Bourland
+  - Michael D Chan
+  - Alexandra Thomas
+  - Alexandre Barbault
+  - Ralph B D'Agostino
+  - Christopher T Whitlow
+  - Volker Kirchner
+  - Carl Blackman
+  - Boris Pasche
+  - Kounosuke Watabe
+  publisher: EBioMedicine
+  date: '2024-12-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39731855
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39235436
+  title: 'Normative Neuroimaging Library: Designing a Comprehensive and Demographically
+    Diverse Dataset of Healthy Controls to Support Traumatic Brain Injury Diagnostic
+    and Therapeutic Development.'
+  authors:
+  - Allyson T Gage
+  - James R Stone
+  - Elisabeth A Wilde
+  - Stephen R McCauley
+  - Robert C Welsh
+  - John P Mugler
+  - Nick Tustison
+  - Brian Avants
+  - Christopher T Whitlow
+  - Lee Lancashire
+  - Seema D Bhatt
+  - Magali Haas
+  publisher: Journal of neurotrauma
+  date: '2024-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39235436
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39399019
+  title: Reduced Cortical Excitability is Associated with Cognitive Symptoms in Concussed
+    Adolescent Football Players.
+  authors:
+  - Kevin C Yu
+  - Alex I Wiesman
+  - Elizabeth Davenport
+  - Laura A Flashman
+  - Jillian Urban
+  - Srikantan S Nagarajan
+  - Kiran Solingpuram Sai
+  - Joel Stitzel
+  - Joseph A Maldjian
+  - Christopher T Whitlow
+  publisher: 'medRxiv : the preprint server for health sciences'
+  date: '2024-11-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39399019
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39291940
+  title: 'ChatGPT and Large Language Models in Radiology: Perspectives From the Field.'
+  authors:
+  - Manisha Bahl
+  - Patricia Balthazar
+  - Melissa A Davis
+  - Mina S Makary
+  - Sree Harsha Tirumani
+  - Christopher T Whitlow
+  publisher: AJR. American journal of roentgenology
+  date: '2024-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39291940
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39355617
+  title: Genomic signature for oligometastatic disease in non-small cell lung cancer
+    patients with brain metastases.
+  authors:
+  - Ariel R Choi
+  - Ralph B D'Agostino
+  - Michael K Farris
+  - Mohammed Abdulhaleem
+  - John C Hunting
+  - Yuezhu Wang
+  - Margaret R Smith
+  - Jimmy Ruiz
+  - Thomas W Lycan
+  - W Jeffrey Petty
+  - Christina K Cramer
+  - Stephen B Tatter
+  - Adrian W Laxton
+  - Jaclyn J White
+  - Wencheng Li
+  - Jing Su
+  - Christopher Whitlow
+  - Fei Xing
+  - Michael D Chan
+  publisher: Frontiers in endocrinology
+  date: '2024-09-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39355617
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39229176
+  title: Brain structure and activity predicting cognitive maturation in adolescence.
+  authors:
+  - Junda Zhu
+  - "Cl\xE9ment M Garin"
+  - Xue-Lian Qi
+  - Anna Machado
+  - Zhengyang Wang
+  - Suliann Ben Hamed
+  - Terrence R Stanford
+  - Emilio Salinas
+  - Christopher T Whitlow
+  - Adam W Anderson
+  - Xin Maizie Zhou
+  - Finnegan J Calabro
+  - Beatriz Luna
+  - Christos Constantinidis
+  publisher: 'bioRxiv : the preprint server for biology'
+  date: '2024-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39229176
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38967283
+  title: 'Exploring microtubule dynamics in Alzheimer''s disease: Longitudinal assessment
+    using ['
+  authors:
+  - Naresh Damuka
+  - Riley E Irmen
+  - Ivan Krizan
+  - Mack Miller
+  - Krishna K Gollapelli
+  - Bhuvanachandra Bhoopal
+  - Ojasvi Deep
+  - Avinash Bansode
+  - Samuel N Lockhart
+  - Miranda E Orr
+  - Pooja Jadiya
+  - Nagaraju Bashetti
+  - J V Shanmukha Kumar
+  - Akiva Mintz
+  - Christopher T Whitlow
+  - Suzanne Craft
+  - Shannon L Macauley
+  - Kiran K Solingapuram Sai
+  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
+  date: '2024-07-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38967283
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38963424
+  title: 'Standardized reporting for Head CT Scans in patients suspected of traumatic
+    brain injury (TBI): An international expert endeavor.'
+  authors:
+  - Max Wintermark
+  - Jason W Allen
+  - Yoshimi Anzai
+  - Tilak Das
+  - Adam E Flanders
+  - Damien Galanaud
+  - Alisa Gean
+  - Sven Haller
+  - Han Lv
+  - Jussi Hirvonen
+  - John E Jordan
+  - Roland Lee
+  - Yvonne W Lui
+  - Pia C Sundgren
+  - Pratik Mukherjee
+  - "Kent G\xF8ran Moen"
+  - Mario Muto
+  - Karelys Ng
+  - Sumit N Niogi
+  - Alex Rovira
+  - Niloufar Libre de Bruxellas
+  - Marion Smits
+  - A John Tsiouris
+  - Johan Van Goethem
+  - Thijs Vande Vyvere
+  - Chris Whitlow
+  - Martin Wiesmann
+  - Kei Yamada
+  - Natalia Zakharova
+  - Paul M Parizel
+  publisher: Neuroradiology
+  date: '2024-07-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38963424
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:39054293
+  title: Cognitive and Salience Network Connectivity Changes following a Single Season
+    of Repetitive Head Impact Exposure in High School Football.
+  authors:
+  - Mohammad I Kawas
+  - Kyle M Atcheson
+  - William C Flood
+  - Christopher A Sheridan
+  - Richard A Barcus
+  - Laura A Flashman
+  - Thomas W McAllister
+  - Megan E Lipford
+  - Jeongchul Kim
+  - Jillian E Urban
+  - Elizabeth M Davenport
+  - Christopher G Vaughan
+  - Kiran K Solingapuram Sai
+  - Joel D Stitzel
+  - Joseph A Maldjian
+  - Christopher T Whitlow
+  publisher: AJNR. American journal of neuroradiology
+  date: '2024-08-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39054293
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38164572
+  title: Recommended Resting-State fMRI Acquisition and Preprocessing Steps for Preoperative
+    Mapping of Language and Motor and Visual Areas in Adult and Pediatric Patients
+    with Brain Tumors and Epilepsy.
+  authors:
+  - V A Kumar
+  - J Lee
+  - H-L Liu
+  - J W Allen
+  - C G Filippi
+  - A I Holodny
+  - K Hsu
+  - R Jain
+  - M P McAndrews
+  - K K Peck
+  - G Shah
+  - J S Shimony
+  - S Singh
+  - M Zeineh
+  - J Tanabe
+  - B Vachha
+  - A Vossough
+  - K Welker
+  - C Whitlow
+  - M Wintermark
+  - G Zaharchuk
+  - H I Sair
+  publisher: AJNR. American journal of neuroradiology
+  date: '2024-02-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38164572
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38050788
+  title: Development and assessment of a stair ascension challenge as a measure of
+    aging and physical function in nonhuman primates.
+  authors:
+  - Shannon R Scarberry
+  - Hannah Prutchi
+  - Brett M Frye
+  - Justin Herr
+  - Christie Scott
+  - Chrissy M Long
+  - Matthew J Jorgensen
+  - Carol A Shively
+  - Kylie Kavanagh
+  publisher: American journal of primatology
+  date: '2023-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38050788
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37217631
+  title: "Executive function mediates age-related variation in social integration\
+    \ in female vervet monkeys (Chlorocebus\_sabaeus)."
+  authors:
+  - Jacob D Negrey
+  - Brett M Frye
+  - Suzanne Craft
+  - Thomas C Register
+  - Mark G Baxter
+  - Matthew J Jorgensen
+  - Carol A Shively
+  publisher: GeroScience
+  date: '2023-05-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37217631
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:38142289
+  title: 'Effects of multiple anesthetic exposures on rhesus macaque brain development:
+    a longitudinal structural MRI analysis.'
+  authors:
+  - Jeongchul Kim
+  - Richard Barcus
+  - Megan E Lipford
+  - Hongyu Yuan
+  - Douglas G Ririe
+  - Youngkyoo Jung
+  - Roza M Vlasova
+  - Martin Styner
+  - Michael A Nader
+  - Christopher T Whitlow
+  publisher: 'Cerebral cortex (New York, N.Y. : 1991)'
+  date: '2024-01-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38142289
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37463061
+  title: 'CARE4Kids Study: Endophenotypes of Persistent Post-Concussive Symptoms in
+    Adolescents: Study Rationale and Protocol.'
+  authors:
+  - Christopher C Giza
+  - Gerard Gioia
+  - Lawrence J Cook
+  - Robert Asarnow
+  - Aliyah Snyder
+  - Talin Babikian
+  - Paul Thompson
+  - Jeffery J Bazarian
+  - Christopher T Whitlow
+  - Christopher M Miles
+  - Scott Otallah
+  - Joshua Kamins
+  - Nyaz Didehbani
+  - Philip E Rosenbaum
+  - Sara P D Chrisman
+  - Christopher G Vaughan
+  - Munro Cullum
+  - David M Popoli
+  - Meeryo Choe
+  - Jessica Gill
+  - Emily L Dennis
+  - Christine L Mac Donald
+  - Frederick P Rivara
+  publisher: Journal of neurotrauma
+  date: '2023-08-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37463061
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37071449
+  title: MicroRNA expression in extracellular vesicles as a novel blood-based biomarker
+    for Alzheimer's disease.
+  authors:
+  - Ashish Kumar
+  - Yixin Su
+  - Mitu Sharma
+  - Sangeeta Singh
+  - Susy Kim
+  - Jeremy J Peavey
+  - Cynthia K Suerken
+  - Samuel N Lockhart
+  - Christopher T Whitlow
+  - Suzanne Craft
+  - Timothy M Hughes
+  - Gagan Deep
+  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
+  date: '2023-04-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37071449
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37724996
+  title: Preliminary PET Imaging of Microtubule-Based PET Radioligand [
+  authors:
+  - Bhuvanachandra Bhoopal
+  - Krishna Kumar Gollapelli
+  - Naresh Damuka
+  - Mack Miller
+  - Ivan Krizan
+  - Avinash Bansode
+  - Thomas Register
+  - Brett M Frye
+  - Jeongchul Kim
+  - Akiva Mintz
+  - Miranda Orr
+  - Suzanne Craft
+  - Christopher Whitlow
+  - Samuel N Lockhart
+  - Carol A Shively
+  - Kiran Kumar Solingapuram Sai
+  publisher: ACS chemical neuroscience
+  date: '2023-09-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37724996
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37609703
+  title: Single-neuron and population measures of neuronal activity in working memory
+    tasks.
+  authors:
+  - Rana Mozumder
+  - Christos Constantinidis
+  publisher: Journal of neurophysiology
+  date: '2023-08-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37609703
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37092852
+  title: Parametric cerebral blood flow and arterial transit time mapping using a
+    3D convolutional neural network.
+  authors:
+  - Donghoon Kim
+  - Megan E Lipford
+  - Hongjian He
+  - Qiuping Ding
+  - Vladimir Ivanovic
+  - Samuel N Lockhart
+  - Suzanne Craft
+  - Christopher T Whitlow
+  - Youngkyoo Jung
+  publisher: Magnetic resonance in medicine
+  date: '2023-04-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37092852
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37315328
+  title: 'First GPR119 PET Imaging Ligand: Synthesis, Radiochemistry, and Preliminary
+    Evaluations.'
+  authors:
+  - Avinash H Bansode
+  - Naresh Damuka
+  - Nagaraju Bashetti
+  - Krishna Kumar Gollapelli
+  - Ivan Krizan
+  - Bhuvanachandra Bhoopal
+  - Mack Miller
+  - Shanmukha Kumar Jv
+  - Christopher T Whitlow
+  - Donald McClain
+  - Tao Ma
+  - Matthew J Jorgensen
+  - Kiran Kumar Solingapuram Sai
+  publisher: Journal of medicinal chemistry
+  date: '2023-06-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37315328
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:37198498
+  title: 'Translating radiology reports into plain language using ChatGPT and GPT-4
+    with prompt learning: results, limitations, and potential.'
+  authors:
+  - Qing Lyu
+  - Josh Tan
+  - Michael E Zapadka
+  - Janardhana Ponnatapura
+  - Chuang Niu
+  - Kyle J Myers
+  - Ge Wang
+  - Christopher T Whitlow
+  publisher: Visual computing for industry, biomedicine, and art
+  date: '2023-05-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37198498
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36970170
+  title: 'Five-year survivors from brain metastases treated with stereotactic radiosurgery:
+    Biology, improving treatments, or just plain luck?'
+  authors:
+  - Jane B Pearce
+  - Fang-Chi Hsu
+  - Claire M Lanier
+  - Christina K Cramer
+  - Jimmy Ruiz
+  - Hui-Wen Lo
+  - Fei Xing
+  - Margaret Smith
+  - Wencheng Li
+  - Christopher Whitlow
+  - Jaclyn J White
+  - Stephen B Tatter
+  - Adrian W Laxton
+  - Michael D Chan
+  publisher: Neuro-oncology practice
+  date: '2022-12-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36970170
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36779071
+  title: Rapid-onset dystonia-parkinsonism is associated with reduced cerebral blood
+    flow without gray matter changes.
+  authors:
+  - Christopher T Whitlow
+  - Kyle M Atcheson
+  - Beverly M Snively
+  - Jared F Cook
+  - Jeongchul Kim
+  - Ihtsham U Haq
+  - Kathleen J Sweadner
+  - Laurie J Ozelius
+  - Allison Brashear
+  publisher: Frontiers in neurology
+  date: '2023-01-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36779071
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36574316
+  title: Reply.
+  authors:
+  - P M Cogswell
+  - C R Jack
+  - J A Barakos
+  - F Barkhof
+  - T S Benzinger
+  - C A Raji
+  - T Y Poussaint
+  - V K Ramanan
+  - C T Whitlow
+  publisher: AJNR. American journal of neuroradiology
+  date: '2022-12-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36574316
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36335526
+  title: 'Long term survivors of stereotactic radiosurgery for brain metastases: do
+    distant brain failures reach a plateau and what factors are associated with a
+    brain metastasis velocity of zero?'
+  authors:
+  - Claire M Lanier
+  - Jane Pearce
+  - Scott Isom
+  - Fei Xing
+  - Hui-Wen Lo
+  - Christopher T Whitlow
+  - Jimmy Ruiz
+  - Jaclyn J White
+  - Adrian W Laxton
+  - Stephen B Tatter
+  - Christina K Cramer
+  - Michael D Chan
+  publisher: Journal of neuro-oncology
+  date: '2022-11-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36335526
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36419451
+  title: A transformer-based deep-learning approach for classifying brain metastases
+    into primary organ sites using clinical whole-brain MRI images.
+  authors:
+  - Qing Lyu
+  - Sanjeev V Namjoshi
+  - Emory McTyre
+  - Umit Topaloglu
+  - Richard Barcus
+  - Michael D Chan
+  - Christina K Cramer
+  - Waldemar Debinski
+  - Metin N Gurcan
+  - Glenn J Lesser
+  - Hui-Kuan Lin
+  - Reginald F Munden
+  - Boris C Pasche
+  - Kiran K S Sai
+  - Roy E Strowd
+  - Stephen B Tatter
+  - Kounosuke Watabe
+  - Wei Zhang
+  - Ge Wang
+  - Christopher T Whitlow
+  publisher: Patterns (New York, N.Y.)
+  date: '2022-10-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36419451
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36313967
+  title: 'Transcriptional profiles in olfactory pathway-associated brain regions of
+    African green monkeys: Associations with age and Alzheimer''s disease neuropathology.'
+  authors:
+  - Jacob D Negrey
+  - Dorothy L Dobbins
+  - Timothy D Howard
+  - Karin E Borgmann-Winter
+  - Chang-Gyu Hahn
+  - Sergey Kalinin
+  - Douglas L Feinstein
+  - Suzanne Craft
+  - Carol A Shively
+  - Thomas C Register
+  publisher: Alzheimer's & dementia (New York, N. Y.)
+  date: '2022-10-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36313967
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36213243
+  title: 'Corrigendum: Relationship between cerebrovascular reactivity and cognition
+    among people with risk of cognitive decline.'
+  authors:
+  - Donghoon Kim
+  - Timothy M Hughes
+  - Megan E Lipford
+  - Suzanne Craft
+  - Laura D Baker
+  - Samuel N Lockhart
+  - Christopher T Whitlow
+  - Stephanie E Okonmah-Obazee
+  - Christina E Hugenschmidt
+  - Matthew Bobinski
+  - Youngkyoo Jung
+  publisher: Frontiers in physiology
+  date: '2022-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36213243
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36053126
+  title: MEG measured delta waves increase in adolescents after concussion.
+  authors:
+  - Elizabeth M Davenport
+  - Jillian E Urban
+  - Christopher Vaughan
+  - Jesse C DeSimone
+  - Ben Wagner
+  - Mark A Espeland
+  - Alexander K Powers
+  - Christopher T Whitlow
+  - Joel D Stitzel
+  - Joseph A Maldjian
+  publisher: Brain and behavior
+  date: '2022-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36053126
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35953274
+  title: 'Amyloid-Related Imaging Abnormalities with Emerging Alzheimer Disease Therapeutics:
+    Detection and Reporting Recommendations for Clinical Practice.'
+  authors:
+  - P M Cogswell
+  - J A Barakos
+  - F Barkhof
+  - T S Benzinger
+  - C R Jack
+  - T Y Poussaint
+  - C A Raji
+  - V K Ramanan
+  - C T Whitlow
+  publisher: AJNR. American journal of neuroradiology
+  date: '2022-08-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35953274
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35986059
+  title: Early-stage COVID-19 pandemic observations on pulmonary embolism using nationwide
+    multi-institutional data harvesting.
+  authors:
+  - "Axel Wism\xFCller"
+  - Adora M DSouza
+  - Anas Z Abidin
+  - M Ali Vosoughi
+  - Christopher Gange
+  - Isabel O Cortopassi
+  - Gracijela Bozovic
+  - Alexander A Bankier
+  - Kiran Batra
+  - Yosef Chodakiewitz
+  - Yin Xi
+  - Christopher T Whitlow
+  - Janardhana Ponnatapura
+  - Gary J Wendt
+  - Eric P Weinberg
+  - Larry Stockmaster
+  - David A Shrier
+  - Min Chul Shin
+  - Roshan Modi
+  - Hao Steven Lo
+  - Seth Kligerman
+  - Aws Hamid
+  - Lewis D Hahn
+  - Glenn M Garcia
+  - Jonathan H Chung
+  - Talissa Altes
+  - Suhny Abbara
+  - Anna S Bader
+  publisher: NPJ digital medicine
+  date: '2022-08-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35986059
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36006081
+  title: Relationship between Aggressiveness, Self-Confidence, and Perceived Coach
+    Support and Head Impact Exposure in Youth Football.
+  authors:
+  - Madison E Marks
+  - William C Flood
+  - Mireille E Kelley
+  - Mark A Espeland
+  - Christopher M Miles
+  - Alexander K Powers
+  - Christopher T Whitlow
+  - Joseph A Maldjian
+  - Joel D Stitzel
+  - Jillian E Urban
+  publisher: Sports (Basel, Switzerland)
+  date: '2022-07-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36006081
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35881263
+  title: Preliminary mechanistic insights of a brain-penetrant microtubule imaging
+    PET ligand in a tau-knockout mouse model.
+  authors:
+  - Naresh Damuka
+  - Miranda E Orr
+  - Avinash H Bansode
+  - Ivan Krizan
+  - Mack Miller
+  - Jillian Lee
+  - Shannon L Macauley
+  - Christopher T Whitlow
+  - Akiva Mintz
+  - Suzanne Craft
+  - Kiran Kumar Solingapuram Sai
+  publisher: EJNMMI research
+  date: '2022-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35881263
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35814618
+  title: Vascular and microstructural markers of cognitive pathology.
+  authors:
+  - Claudia Coffin
+  - Cynthia K Suerken
+  - James R Bateman
+  - Christopher T Whitlow
+  - Benjamin J Williams
+  - Mark A Espeland
+  - Bonnie C Sachs
+  - Maryjo Cleveland
+  - Mia Yang
+  - Samantha Rogers
+  - Kathleen M Hayden
+  - Laura D Baker
+  - Jeff Williamson
+  - Suzanne Craft
+  - Timothy M Hughes
+  - Samuel N Lockhart
+  publisher: Alzheimer's & dementia (Amsterdam, Netherlands)
+  date: '2022-07-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35814618
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35700361
+  title: Multilevel atlas comparisons reveal divergent evolution of the primate brain.
+  authors:
+  - "Cl\xE9ment M Garin"
+  - Marie Garin
+  - Leonardo Silenzi
+  - Rye Jaffe
+  - Christos Constantinidis
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2022-06-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35700361
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35274379
+  title: Comparison of linear and volumetric criteria for the determination of therapeutic
+    response in dogs with intracranial gliomas.
+  authors:
+  - Josefa Karina Garcia Mora
+  - John Robertson
+  - Fang-Chi Hsu
+  - Richard Levon Shinn
+  - Martha M Larson
+  - Christopher G Rylander
+  - Christopher T Whitlow
+  - Waldemar Debinski
+  - Rafael V Davalos
+  - Gregory B Daniel
+  - John H Rossmeisl
+  publisher: Journal of veterinary internal medicine
+  date: '2022-03-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35274379
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35422418
+  title: More Prominent Nonlinear Mixed Selectivity in the Dorsolateral Prefrontal
+    than Posterior Parietal Cortex.
+  authors:
+  - Wenhao Dang
+  - Sihai Li
+  - Shusen Pu
+  - Xue-Lian Qi
+  - Christos Constantinidis
+  publisher: eNeuro
+  date: '2022-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35422418
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35417698
+  title: An evolutionary gap in primate default mode network organization.
+  authors:
+  - "Cl\xE9ment M Garin"
+  - Yuki Hori
+  - Stefan Everling
+  - Christopher T Whitlow
+  - Finnegan J Calabro
+  - Beatriz Luna
+  - Mathilda Froesel
+  - "Ma\xEBva Gacoin"
+  - Suliann Ben Hamed
+  - Marc Dhenain
+  - Christos Constantinidis
+  publisher: Cell reports
+  date: '2022-04-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35417698
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35197317
+  title: Strong Gamma Frequency Oscillations in the Adolescent Prefrontal Cortex.
+  authors:
+  - Zhengyang Wang
+  - Balbir Singh
+  - Xin Zhou
+  - Christos Constantinidis
+  publisher: 'The Journal of neuroscience : the official journal of the Society for
+    Neuroscience'
+  date: '2022-02-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35197317
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35061991
+  title: Cumulative strain-based metrics for predicting subconcussive head impact
+    exposure-related imaging changes in a cohort of American youth football players.
+  authors:
+  - Logan E Miller
+  - Jillian E Urban
+  - Mark A Espeland
+  - Michael P Walkup
+  - James M Holcomb
+  - Elizabeth M Davenport
+  - Alexander K Powers
+  - Christopher T Whitlow
+  - Joseph A Maldjian
+  - Joel D Stitzel
+  publisher: Journal of neurosurgery. Pediatrics
+  date: '2022-01-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35061991
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34482601
+  title: 'Associations among vascular risk factors, neuroimaging biomarkers, and cognition:
+    Preliminary analyses from the Multi-Ethnic Study of Atherosclerosis (MESA).'
+  authors:
+  - Samuel N Lockhart
+  - Christopher L Schaich
+  - Suzanne Craft
+  - Bonnie C Sachs
+  - Stephen R Rapp
+  - Youngkyoo Jung
+  - Christopher T Whitlow
+  - Kiran Kumar Solingapuram Sai
+  - Maryjo Cleveland
+  - Benjamin J Williams
+  - Gregory L Burke
+  - Alain Bertoni
+  - Kathleen M Hayden
+  - Timothy M Hughes
+  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
+  date: '2021-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34482601
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34310039
+  title: Comparing data-driven and hypothesis-driven MRI-based predictors of cognitive
+    impairment in individuals from the Atherosclerosis Risk in Communities (ARIC)
+    study.
+  authors:
+  - Ramon Casanova
+  - Fang-Chi Hsu
+  - Ryan T Barnard
+  - Andrea M Anderson
+  - Rajesh Talluri
+  - Christopher T Whitlow
+  - Timothy M Hughes
+  - Michael Griswold
+  - Kathleen M Hayden
+  - Rebecca F Gottesman
+  - Lynne E Wagenknecht
+  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
+  date: '2021-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34310039
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35310523
+  title: Early Alzheimer's disease-like reductions in gray matter and cognitive function
+    with aging in nonhuman primates.
+  authors:
+  - Brett M Frye
+  - Suzanne Craft
+  - Thomas C Register
+  - Jeongchul Kim
+  - Christopher T Whitlow
+  - Richard A Barcus
+  - Samuel N Lockhart
+  - Kiran Kumar Solingapuram Sai
+  - Carol A Shively
+  publisher: Alzheimer's & dementia (New York, N. Y.)
+  date: '2022-03-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35310523
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34310044
+  title: 'Mediterranean and Western diet effects on Alzheimer''s disease biomarkers,
+    cerebral perfusion, and cognition in mid-life: A randomized trial.'
+  authors:
+  - Siobhan Hoscheidt
+  - Ashley H Sanderlin
+  - Laura D Baker
+  - Youngkyoo Jung
+  - Samuel Lockhart
+  - Derek Kellar
+  - Christopher T Whitlow
+  - Angela J Hanson
+  - Seth Friedman
+  - Thomas Register
+  - James B Leverenz
+  - Suzanne Craft
+  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
+  date: '2021-07-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34310044
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35295607
+  title: Initial Evaluations of the Microtubule-Based PET Radiotracer, [
+  authors:
+  - Naresh Damuka
+  - Thomas J Martin
+  - Avinash H Bansode
+  - Ivan Krizan
+  - Conner W Martin
+  - Mack Miller
+  - Christopher T Whitlow
+  - Michael A Nader
+  - Kiran Kumar Solingapuram Sai
+  publisher: Frontiers in medicine
+  date: '2022-02-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35295607
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:35237134
+  title: Neural Mechanisms of Working Memory Accuracy Revealed by Recurrent Neural
+    Networks.
+  authors:
+  - Yuanqi Xie
+  - Yichen Henry Liu
+  - Christos Constantinidis
+  - Xin Zhou
+  publisher: Frontiers in systems neuroscience
+  date: '2022-02-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35237134
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:33677994
+  title: Developing Insights for Possible and Probable Acute Concussions Using Cluster
+    Analysis.
+  authors:
+  - Gian-Gabriel P Garcia
+  - Caroline M Schumb
+  - Mariel S Lavieri
+  - Hendrik Koffijberg
+  - Thomas W McAllister
+  - Michael A McCrea
+  - Steven P Broglio
+  publisher: Journal of neurotrauma
+  date: '2021-04-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33677994
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36314205
+  title: Hypertensive Aspects of Cardiometabolic Disorders Are Associated with Lower
+    Brain Microstructure, Perfusion, and Cognition.
+  authors:
+  - Timothy M Hughes
+  - Samuel N Lockhart
+  - Cynthia K Suerken
+  - Youngkyoo Jung
+  - Christopher T Whitlow
+  - James R Bateman
+  - Benjamin J Williams
+  - Mark A Espeland
+  - Bonnie C Sachs
+  - Jeff Williamson
+  - Maryjo Cleveland
+  - Mia Yang
+  - Samantha Rogers
+  - Kathleen M Hayden
+  - Laura D Baker
+  - Suzanne Craft
+  publisher: 'Journal of Alzheimer''s disease : JAD'
+  date: '2022-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36314205
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:36275134
+  title: Upfront immunotherapy leads to lower brain metastasis velocity in patients
+    undergoing stereotactic radiosurgery for brain metastases.
+  authors:
+  - Mohammed Abdulhaleem
+  - Emmanuel Scott
+  - Hannah Johnston
+  - Scott Isom
+  - Claire Lanier
+  - Michael LeCompte
+  - Christina K Cramer
+  - Jimmy Ruiz
+  - Hui-Wen Lo
+  - Kuonosuke Watabe
+  - Stacey O'Neill
+  - Christopher Whitlow
+  - Stephen B Tatter
+  - Adrian W Laxton
+  - Jing Su
+  - Michael D Chan
+  publisher: Journal of radiosurgery and SBRT
+  date: '2022-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/36275134
+  plugin: sources.py
+  file: sources.yaml
+- id: pubmed:34910503
+  title: Single-synapse analyses of Alzheimer's disease implicate pathologic tau,
+    DJ1, CD47, and ApoE.
+  authors:
+  - Thanaphong Phongpreecha
+  - Chandresh R Gajera
+  - Candace C Liu
+  - Kausalia Vijayaragavan
+  - Alan L Chang
+  - Martin Becker
+  - Ramin Fallahzadeh
+  - Rosemary Fernandez
+  - Nadia Postupna
+  - Emily Sherfield
+  - Dmitry Tebaykin
+  - Caitlin Latimer
+  - Carol A Shively
+  - Thomas C Register
+  - Suzanne Craft
+  - Kathleen S Montine
+  - Edward J Fox
+  - Kathleen L Poston
+  - C Dirk Keene
+  - Michael Angelo
+  - Sean C Bendall
+  - Nima Aghaeepour
+  - Thomas J Montine
+  publisher: Science advances
+  date: '2021-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34910503
+  plugin: sources.py
+  file: sources.yaml
