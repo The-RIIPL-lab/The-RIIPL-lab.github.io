@@ -20,6 +20,7 @@
  - id: doi:10.1002/alz.056711
  - id: doi:10.1002/alz.055761
  - id: doi:10.1002/alz.056364
+ # Whitlow Pubmed DB
  - id: pubmed:39179297
  - id: pubmed:39731855
  - id: pubmed:39235436
