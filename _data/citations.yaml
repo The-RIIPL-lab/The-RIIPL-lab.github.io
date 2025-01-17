@@ -669,40 +669,6 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/38164572
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:38050788
-  title: Development and assessment of a stair ascension challenge as a measure of
-    aging and physical function in nonhuman primates.
-  authors:
-  - Shannon R Scarberry
-  - Hannah Prutchi
-  - Brett M Frye
-  - Justin Herr
-  - Christie Scott
-  - Chrissy M Long
-  - Matthew J Jorgensen
-  - Carol A Shively
-  - Kylie Kavanagh
-  publisher: American journal of primatology
-  date: '2023-12-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38050788
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:37217631
-  title: "Executive function mediates age-related variation in social integration\
-    \ in female vervet monkeys (Chlorocebus\_sabaeus)."
-  authors:
-  - Jacob D Negrey
-  - Brett M Frye
-  - Suzanne Craft
-  - Thomas C Register
-  - Mark G Baxter
-  - Matthew J Jorgensen
-  - Carol A Shively
-  publisher: GeroScience
-  date: '2023-05-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37217631
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:38142289
   title: 'Effects of multiple anesthetic exposures on rhesus macaque brain development:
     a longitudinal structural MRI analysis.'
@@ -797,17 +763,6 @@
   publisher: ACS chemical neuroscience
   date: '2023-09-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37724996
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:37609703
-  title: Single-neuron and population measures of neuronal activity in working memory
-    tasks.
-  authors:
-  - Rana Mozumder
-  - Christos Constantinidis
-  publisher: Journal of neurophysiology
-  date: '2023-08-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/37609703
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:37092852
@@ -976,25 +931,6 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/36419451
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:36313967
-  title: 'Transcriptional profiles in olfactory pathway-associated brain regions of
-    African green monkeys: Associations with age and Alzheimer''s disease neuropathology.'
-  authors:
-  - Jacob D Negrey
-  - Dorothy L Dobbins
-  - Timothy D Howard
-  - Karin E Borgmann-Winter
-  - Chang-Gyu Hahn
-  - Sergey Kalinin
-  - Douglas L Feinstein
-  - Suzanne Craft
-  - Carol A Shively
-  - Thomas C Register
-  publisher: Alzheimer's & dementia (New York, N. Y.)
-  date: '2022-10-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36313967
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:36213243
   title: 'Corrigendum: Relationship between cerebrovascular reactivity and cognition
     among people with risk of cognitive decline.'
@@ -1151,20 +1087,6 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/35814618
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:35700361
-  title: Multilevel atlas comparisons reveal divergent evolution of the primate brain.
-  authors:
-  - "Cl\xE9ment M Garin"
-  - Marie Garin
-  - Leonardo Silenzi
-  - Rye Jaffe
-  - Christos Constantinidis
-  publisher: Proceedings of the National Academy of Sciences of the United States
-    of America
-  date: '2022-06-14'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35700361
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:35274379
   title: Comparison of linear and volumetric criteria for the determination of therapeutic
     response in dogs with intracranial gliomas.
@@ -1183,20 +1105,6 @@
   publisher: Journal of veterinary internal medicine
   date: '2022-03-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35274379
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:35422418
-  title: More Prominent Nonlinear Mixed Selectivity in the Dorsolateral Prefrontal
-    than Posterior Parietal Cortex.
-  authors:
-  - Wenhao Dang
-  - Sihai Li
-  - Shusen Pu
-  - Xue-Lian Qi
-  - Christos Constantinidis
-  publisher: eNeuro
-  date: '2022-04-26'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35422418
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:35417698
@@ -1218,19 +1126,6 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/35417698
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:35197317
-  title: Strong Gamma Frequency Oscillations in the Adolescent Prefrontal Cortex.
-  authors:
-  - Zhengyang Wang
-  - Balbir Singh
-  - Xin Zhou
-  - Christos Constantinidis
-  publisher: 'The Journal of neuroscience : the official journal of the Society for
-    Neuroscience'
-  date: '2022-02-23'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35197317
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:35061991
   title: Cumulative strain-based metrics for predicting subconcussive head impact
     exposure-related imaging changes in a cohort of American youth football players.
@@ -1248,29 +1143,6 @@
   publisher: Journal of neurosurgery. Pediatrics
   date: '2022-01-21'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35061991
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:34482601
-  title: 'Associations among vascular risk factors, neuroimaging biomarkers, and cognition:
-    Preliminary analyses from the Multi-Ethnic Study of Atherosclerosis (MESA).'
-  authors:
-  - Samuel N Lockhart
-  - Christopher L Schaich
-  - Suzanne Craft
-  - Bonnie C Sachs
-  - Stephen R Rapp
-  - Youngkyoo Jung
-  - Christopher T Whitlow
-  - Kiran Kumar Solingapuram Sai
-  - Maryjo Cleveland
-  - Benjamin J Williams
-  - Gregory L Burke
-  - Alain Bertoni
-  - Kathleen M Hayden
-  - Timothy M Hughes
-  publisher: 'Alzheimer''s & dementia : the journal of the Alzheimer''s Association'
-  date: '2021-09-05'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34482601
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:34310039
@@ -1363,22 +1235,6 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/35237134
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:33677994
-  title: Developing Insights for Possible and Probable Acute Concussions Using Cluster
-    Analysis.
-  authors:
-  - Gian-Gabriel P Garcia
-  - Caroline M Schumb
-  - Mariel S Lavieri
-  - Hendrik Koffijberg
-  - Thomas W McAllister
-  - Michael A McCrea
-  - Steven P Broglio
-  publisher: Journal of neurotrauma
-  date: '2021-04-09'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33677994
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:36314205
   title: Hypertensive Aspects of Cardiometabolic Disorders Are Associated with Lower
     Brain Microstructure, Perfusion, and Cognition.
@@ -1402,62 +1258,5 @@
   publisher: 'Journal of Alzheimer''s disease : JAD'
   date: '2022-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/36314205
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:36275134
-  title: Upfront immunotherapy leads to lower brain metastasis velocity in patients
-    undergoing stereotactic radiosurgery for brain metastases.
-  authors:
-  - Mohammed Abdulhaleem
-  - Emmanuel Scott
-  - Hannah Johnston
-  - Scott Isom
-  - Claire Lanier
-  - Michael LeCompte
-  - Christina K Cramer
-  - Jimmy Ruiz
-  - Hui-Wen Lo
-  - Kuonosuke Watabe
-  - Stacey O'Neill
-  - Christopher Whitlow
-  - Stephen B Tatter
-  - Adrian W Laxton
-  - Jing Su
-  - Michael D Chan
-  publisher: Journal of radiosurgery and SBRT
-  date: '2022-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/36275134
-  plugin: sources.py
-  file: sources.yaml
-- id: pubmed:34910503
-  title: Single-synapse analyses of Alzheimer's disease implicate pathologic tau,
-    DJ1, CD47, and ApoE.
-  authors:
-  - Thanaphong Phongpreecha
-  - Chandresh R Gajera
-  - Candace C Liu
-  - Kausalia Vijayaragavan
-  - Alan L Chang
-  - Martin Becker
-  - Ramin Fallahzadeh
-  - Rosemary Fernandez
-  - Nadia Postupna
-  - Emily Sherfield
-  - Dmitry Tebaykin
-  - Caitlin Latimer
-  - Carol A Shively
-  - Thomas C Register
-  - Suzanne Craft
-  - Kathleen S Montine
-  - Edward J Fox
-  - Kathleen L Poston
-  - C Dirk Keene
-  - Michael Angelo
-  - Sean C Bendall
-  - Nima Aghaeepour
-  - Thomas J Montine
-  publisher: Science advances
-  date: '2021-12-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34910503
   plugin: sources.py
   file: sources.yaml
