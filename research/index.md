@@ -11,7 +11,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Assessing cerebrovascular reactivity" style="rich" %}
+{% include citation.html lookup="ChatGPT and Large Language Models in Radiology: Perspectives From the Field" style="rich" %}
 
 {% include section.html %}
 
