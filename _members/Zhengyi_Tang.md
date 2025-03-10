@@ -1,8 +1,7 @@
 ---
 name: Zhengyi Tang
-image: 
+image: images/staff_photos/zhengyi_tang.jpg
 role: phd
 group: bme
 links:
 ---
-Starting soon in Fall of 2024!
