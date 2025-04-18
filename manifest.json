@@ -1,0 +1,32 @@
+{
+  "name": "RIIPL Lab",
+  "short_name": "RIIPL",
+  "description": "Wake Forest School of Medicine - Radiology Informatics and Imaging Processing Laboratory",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/riipl_logo_100.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    },
+    {
+      "src": "images/riipl_logo_250.png",
+      "sizes": "250x250",
+      "type": "image/png"
+    },
+    {
+      "src": "images/riipl_logo_500.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    },
+    {
+      "src": "images/riipl_logo_circle_500.png",
+      "sizes": "500x500",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

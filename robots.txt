@@ -1,1 +1,4 @@
-Sitemap: https://the-riipl-lab.github.io/sitemap.xml
+User-agent: *
+Allow: /
+
+Sitemap: https://riipl-lab.github.io/sitemap.xml
