@@ -411,36 +411,6 @@
   link: https://www.ncbi.nlm.nih.gov/pubmed/39179297
   plugin: sources.py
   file: sources.yaml
-- id: pubmed:39731855
-  title: Corrigendum to-"Ca
-  authors:
-  - Sambad Sharma
-  - Shih-Ying Wu
-  - Hugo Jimenez
-  - Fei Xing
-  - Dongqin Zhu
-  - Yin Liu
-  - Kerui Wu
-  - Abhishek Tyagi
-  - Dan Zhao
-  - Hui-Wen Lo
-  - Linda Metheny-Barlow
-  - Peiqing Sun
-  - Daniel J Bourland
-  - Michael D Chan
-  - Alexandra Thomas
-  - Alexandre Barbault
-  - Ralph B D'Agostino
-  - Christopher T Whitlow
-  - Volker Kirchner
-  - Carl Blackman
-  - Boris Pasche
-  - Kounosuke Watabe
-  publisher: EBioMedicine
-  date: '2024-12-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/39731855
-  plugin: sources.py
-  file: sources.yaml
 - id: pubmed:39235436
   title: 'Normative Neuroimaging Library: Designing a Comprehensive and Demographically
     Diverse Dataset of Healthy Controls to Support Traumatic Brain Injury Diagnostic
